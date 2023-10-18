@@ -1,0 +1,280 @@
+[
+    {
+        "id": "1",
+        "origen": "1",
+        "destino": "2",
+        "kilometros": "1"
+    },
+    {
+        "id": "2",
+        "origen": "2",
+        "destino": "1",
+        "kilometros": "1"
+    },
+    {
+        "id": "3",
+        "origen": "2",
+        "destino": "3",
+        "kilometros": "2"
+    },
+    {
+        "id": "4",
+        "origen": "2",
+        "destino": "4",
+        "kilometros": "2"
+    },
+    {
+        "id": "5",
+        "origen": "3",
+        "destino": "2",
+        "kilometros": "2"
+    },
+    {
+        "id": "6",
+        "origen": "3",
+        "destino": "4",
+        "kilometros": "7"
+    },
+    {
+        "id": "7",
+        "origen": "3",
+        "destino": "8",
+        "kilometros": "3"
+    },
+    {
+        "id": "8",
+        "origen": "4",
+        "destino": "3",
+        "kilometros": "7"
+    },
+    {
+        "id": "9",
+        "origen": "4",
+        "destino": "5",
+        "kilometros": "6"
+    },
+    {
+        "id": "10",
+        "origen": "5",
+        "destino": "4",
+        "kilometros": "6"
+    },
+    {
+        "id": "11",
+        "origen": "5",
+        "destino": "6",
+        "kilometros": "1"
+    },
+    {
+        "id": "12",
+        "origen": "6",
+        "destino": "5",
+        "kilometros": "1"
+    },
+    {
+        "id": "13",
+        "origen": "6",
+        "destino": "7",
+        "kilometros": "2"
+    },
+    {
+        "id": "14",
+        "origen": "7",
+        "destino": "6",
+        "kilometros": "2"
+    },
+    {
+        "id": "15",
+        "origen": "7",
+        "destino": "8",
+        "kilometros": "5"
+    },
+    {
+        "id": "16",
+        "origen": "7",
+        "destino": "16",
+        "kilometros": "2"
+    },
+    {
+        "id": "17",
+        "origen": "8",
+        "destino": "7",
+        "kilometros": "5"
+    },
+    {
+        "id": "18",
+        "origen": "8",
+        "destino": "9",
+        "kilometros": "1"
+    },
+    {
+        "id": "19",
+        "origen": "8",
+        "destino": "3",
+        "kilometros": "3"
+    },
+    {
+        "id": "20",
+        "origen": "9",
+        "destino": "8",
+        "kilometros": "1"
+    },
+    {
+        "id": "21",
+        "origen": "9",
+        "destino": "10",
+        "kilometros": "3"
+    },
+    {
+        "id": "22",
+        "origen": "10",
+        "destino": "9",
+        "kilometros": "3"
+    },
+    {
+        "id": "23",
+        "origen": "10",
+        "destino": "11",
+        "kilometros": "4"
+    },
+    {
+        "id": "24",
+        "origen": "11",
+        "destino": "10",
+        "kilometros": "4"
+    },
+    {
+        "id": "25",
+        "origen": "11",
+        "destino": "12",
+        "kilometros": "3"
+    },
+    {
+        "id": "26",
+        "origen": "12",
+        "destino": "11",
+        "kilometros": "3"
+    },
+    {
+        "id": "27",
+        "origen": "12",
+        "destino": "13",
+        "kilometros": "3"
+    },
+    {
+        "id": "28",
+        "origen": "13",
+        "destino": "12",
+        "kilometros": "3"
+    },
+    {
+        "id": "29",
+        "origen": "13",
+        "destino": "14",
+        "kilometros": "2"
+    },
+    {
+        "id": "30",
+        "origen": "14",
+        "destino": "13",
+        "kilometros": "2"
+    },
+
+    {
+        "id": "31",
+        "origen": "14",
+        "destino": "15",
+        "kilometros": "1"
+    },
+    {
+        "id": "32",
+        "origen": "15",
+        "destino": "14",
+        "kilometros": "1"
+    },
+    {
+        "id": "33",
+        "origen": "15",
+        "destino": "7",
+        "kilometros": "2"
+    },
+    {
+        "id": "34",
+        "origen": "7",
+        "destino": "15",
+        "kilometros": "2"
+    },
+    {
+        "id": "35",
+        "origen": "7",
+        "destino": "16",
+        "kilometros": "5"
+    },
+    {
+        "id": "36",
+        "origen": "16",
+        "destino": "7",
+        "kilometros": "5"
+    },
+    {
+        "id": "37",
+        "origen": "16",
+        "destino": "20",
+        "kilometros": "2"
+    },
+    {
+        "id": "38",
+        "origen": "20",
+        "destino": "16",
+        "kilometros": "2"
+    },
+    {
+        "id": "39",
+        "origen": "20",
+        "destino": "19",
+        "kilometros": "3"
+    },
+    {
+        "id": "40",
+        "origen": "19",
+        "destino": "20",
+        "kilometros": "3"
+    },
+    {
+        "id": "41",
+        "origen": "19",
+        "destino": "18",
+        "kilometros": "5"
+    },
+    {
+        "id": "42",
+        "origen": "18",
+        "destino": "19",
+        "kilometros": "5"
+    },
+    {
+        "id": "43",
+        "origen": "18",
+        "destino": "21",
+        "kilometros": "4"
+    },
+    {
+        "id": "44",
+        "origen": "21",
+        "destino": "18",
+        "kilometros": "4"
+    },
+    {
+        "id": "45",
+        "origen": "18",
+        "destino": "22",
+        "kilometros": "3"
+    },
+    {
+        "id": "46",
+        "origen": "22",
+        "destino": "18",
+        "kilometros": "3"
+    }
+]
+
